@@ -1,3 +1,4 @@
+
 Functional Requirements for the Smart Container is :
 
 • The user can login to the system 
@@ -37,3 +38,5 @@ Functional Requirements for the Smart Container is :
 • Amana Jeddah can create waste collection report monthly
 
 • Amana Jeddah can generate peak day and time of waste collection.
+
+for more information see the smart container reporte file 
