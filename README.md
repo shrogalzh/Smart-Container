@@ -1,6 +1,6 @@
 Functional Requirements for the Smart Container is :
 
-• The user can login to the system 
+• The user can login to the system \n
 • The administrator create an account for collector 
 • The administrator set a password for each container 
 • The administrator can edit container in the system 
