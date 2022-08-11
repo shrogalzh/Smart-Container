@@ -32,7 +32,8 @@ Functional Requirements for the Smart Container is :
 
 • The administrator must be able to view if the waste inside the section has the same type or not.
 
-• Amana Jeddah can create account for collector and administrator 
+• Amana Jeddah can create account for collector and administrator
 
-• Amana Jeddah can create waste collection report monthly 
+• Amana Jeddah can create waste collection report monthly
+
 • Amana Jeddah can generate peak day and time of waste collection.
